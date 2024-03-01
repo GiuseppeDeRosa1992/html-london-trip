@@ -1,0 +1,28 @@
+/* BODY */
+body {
+    background-color: blanchedalmond;
+}
+
+/* HEADER */
+
+h1 {
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+
+/* TABLE */
+
+td {
+    padding: 5px;
+}
+
+tfoot {
+    color: red;
+}
+
+/* LIST */
+
+li {
+    padding: 2px;
+}
